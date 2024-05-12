@@ -1,12 +1,41 @@
-## Hi there 👋
+# 🚀 Administration Task Management App
+Welcome to the Administration Task Management App for `EXOP` This application streamlines task assignment and progress tracking for enhanced efficiency and organization within your administration team.
 
-<!--
+## 🛠️ Built With
+* React: JavaScript library for building user interfaces.
+* Vite: Fast build tool that leverages modern JavaScript features.
+* Shadcn: Stylish UI design library for modern web applications.
+* Tailwind CSS: Utility-first CSS framework for rapid UI development.
+* Firebase: Cloud-based platform for authentication and data storage.
+* Plus other awesome libraries to boost productivity!
 
-**Here are some ideas to get you started:**
+## 📋 Features
+Admin Dashboard: Centralized hub for task management and KPI tracking.
+Task Assignment: Assign tasks to employees with ease.
+KPI Point Tracking: Monitor and increase KPI points to drive organizational improvement.
+User Roles: Admin-exclusive privileges with employee user roles for seamless collaboration.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 Getting Started
+### 1 Clone the repository:
+```bash
+git clone https://github.com/yourusername/administration-task-app.git
+```
+
+### 2 Install dependencies:
+```bash
+cd administration-task-app
+npm install
+```
+
+### 3 Set up Firebase:
+Create a Firebase project and configure authentication and the Firestore database.
+Add Firebase configuration details to your project.
+
+### 4 Start the development server:
+```bash
+npm start
+```
+
+## 📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
