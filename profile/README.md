@@ -2,7 +2,8 @@
 Welcome to the Administration Task Management App for `EXOP` This application streamlines task assignment and progress tracking for enhanced efficiency and organization within your administration team.
 
 ## 🛠️ Built With
-* React: JavaScript library for building user interfaces.
+> [!TIP]\
+> **React**:React: JavaScript library for building user interfaces.
 * Vite: Fast build tool that leverages modern JavaScript features.
 * Shadcn: Stylish UI design library for modern web applications.
 * Tailwind CSS: Utility-first CSS framework for rapid UI development.
