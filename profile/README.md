@@ -11,7 +11,8 @@ Welcome to the Administration Task Management App for `EXOP` This application st
 > **Plus** other awesome libraries to boost productivity!
 
 ## 📋 Features
-> [!TIP]\ Admin Dashboard: Centralized hub for task management and KPI tracking. Task Assignment: Assign tasks to employees with ease. KPI Point Tracking: Monitor and increase KPI points to drive organizational improvement. User Roles: Admin-exclusive privileges with employee user roles for seamless collaboration.
+> [!TIP]\
+> Admin Dashboard: Centralized hub for task management and KPI tracking. Task Assignment: Assign tasks to employees with ease. KPI Point Tracking: Monitor and increase KPI points to drive organizational improvement. User Roles: Admin-exclusive privileges with employee user roles for seamless collaboration.
 
 ## 🚀 Getting Started
 ### 1 Clone the repository:
