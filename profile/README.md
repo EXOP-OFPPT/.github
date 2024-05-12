@@ -20,22 +20,23 @@ Welcome to the Administration Task Management App for `EXOP` This application st
 
 
 ## 🚀 Getting Started
-### 1 Clone the repository:
+> [!IMPORTANT]
+> - ### 1 Clone the repository:
 ```bash
 git clone https://github.com/yourusername/administration-task-app.git
 ```
 
-### 2 Install dependencies:
+> - ### 2 Install dependencies:
 ```bash
 cd administration-task-app
 npm install
 ```
 
-### 3 Set up Firebase:
+> - ### 3 Set up Firebase:
 Create a Firebase project and configure authentication and the Firestore database.
 Add Firebase configuration details to your project.
 
-### 4 Start the development server:
+> - ### 4 Start the development server:
 ```bash
 npm start
 ```
