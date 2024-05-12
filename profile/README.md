@@ -19,23 +19,29 @@ Welcome to the Administration Task Management App for `EXOP` This application st
 > - **User Roles**: Admin-exclusive privileges with employee user roles for seamless collaboration.
 
 
+
 ## 🚀 Getting Started
+
 ### 1 Clone the repository:
 ```bash 
 git clone https://github.com/yourusername/administration-task-app.git
 ```
+
 ### 2 Install dependencies:
 ```bash
 cd administration-task-app
 npm install
 ```
+
 ### 3 Set up Firebase:
 Create a Firebase project and configure authentication and the Firestore database.
 Add Firebase configuration details to your project.
+
 ### 4 Start the development server:
 ```bash
 npm start
 ```
+
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
