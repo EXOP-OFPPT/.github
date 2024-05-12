@@ -3,18 +3,19 @@ Welcome to the Administration Task Management App for `EXOP` This application st
 
 ## 🛠️ Built With
 > [!TIP]\
-> **React**:React: JavaScript library for building user interfaces.
-* Vite: Fast build tool that leverages modern JavaScript features.
-* Shadcn: Stylish UI design library for modern web applications.
-* Tailwind CSS: Utility-first CSS framework for rapid UI development.
-* Firebase: Cloud-based platform for authentication and data storage.
-* Plus other awesome libraries to boost productivity!
+> **React**: JavaScript library for building user interfaces.
+> **Vite**: Fast build tool that leverages modern JavaScript features.
+> **Shadcn**: Stylish UI design library for modern web applications.
+> **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+> **Firebase**: Cloud-based platform for authentication and data storage.
+> **Plus** other awesome libraries to boost productivity!
 
 ## 📋 Features
-Admin Dashboard: Centralized hub for task management and KPI tracking.
-Task Assignment: Assign tasks to employees with ease.
-KPI Point Tracking: Monitor and increase KPI points to drive organizational improvement.
-User Roles: Admin-exclusive privileges with employee user roles for seamless collaboration.
+> [!TIP]\
+> **Admin Dashboard**: Centralized hub for task management and KPI tracking.
+> **Task Assignment**: Assign tasks to employees with ease.
+> **KPI Point Tracking**: Monitor and increase KPI points to drive organizational improvement.
+> **User Roles**: Admin-exclusive privileges with employee user roles for seamless collaboration.
 
 ## 🚀 Getting Started
 ### 1 Clone the repository:
