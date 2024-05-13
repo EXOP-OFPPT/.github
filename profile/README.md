@@ -4,7 +4,7 @@ Welcome to the Administration Task Management App for `EXOP` This application st
 ## 🛠️ Built With
 > [!TIP]
 > - **React**: JavaScript library for building user interfaces.
-> - **Vite**: Fast build tool that leverages modern JavaScript features.
+> - **Vite**: Fast build a tool that leverages modern JavaScript features.
 > - **Shadcn**: Stylish UI design library for modern web applications.
 > - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 > - **Firebase**: Cloud-based platform for authentication and data storage.
@@ -24,12 +24,12 @@ Welcome to the Administration Task Management App for `EXOP` This application st
 
 ### 1 Clone the repository:
 ```bash 
-git clone https://github.com/yourusername/administration-task-app.git
+git clone https://github.com/EXOP-OFPPT/web-client.git
 ```
 
 ### 2 Install dependencies:
 ```bash
-cd administration-task-app
+cd web-client
 npm install
 ```
 
