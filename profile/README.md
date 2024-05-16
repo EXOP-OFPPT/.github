@@ -41,6 +41,7 @@ Add Firebase configuration details to your project.
 ```bash
 npm run dev
 ```
+Go visite [http://localhost:5173/]
 
 
 ## 📝 License
