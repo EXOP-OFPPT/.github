@@ -17,6 +17,7 @@ Welcome to the Administration Task Management App for `EXOP` This application st
 > - **Task Assignment**: Assign tasks to employees with ease.
 > - **KPI Point**: Tracking: Monitor and increase KPI points to drive organizational improvement.
 > - **User Roles**: Admin-exclusive privileges with employee user roles for seamless collaboration.
+> - **Notifications**: Add Notifications Actions
 
 
 
