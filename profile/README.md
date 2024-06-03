@@ -18,6 +18,7 @@ Welcome to the Administration Task Management App for `EXOP` This application st
 > - **KPI Point**: Tracking: Monitor and increase KPI points to drive organizational improvement.
 > - **User Roles**: Admin-exclusive privileges with employee user roles for seamless collaboration.
 > - **Notifications**: Add Notifications Actions
+> - **Work with triggers functions**: ADMIN SDK from firebase, and upgrade firebase plan.
 
 
 
