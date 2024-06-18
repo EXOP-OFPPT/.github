@@ -21,7 +21,6 @@ Welcome to the Administration Task Management App for `EXOP` This application st
 > - **Work with triggers functions**: ADMIN SDK from firebase, and upgrade firebase plan.
 
 
-
 ## 🚀 Getting Started
 
 ### 1 Clone the repository:
@@ -48,4 +47,3 @@ Go visite [`http://localhost:5173`](http://localhost:5173)
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
